@@ -167,7 +167,7 @@
   "jm.common.block_flag.foliage": "树叶",
   "jm.common.block_flag.force": "强制",
   "jm.common.block_flag.grass": "草地",
-  "jm.common.block_flag.ignore": "忽略"，
+  "jm.common.block_flag.ignore": "忽略",
   "jm.common.block_flag.noShadow": "无阴影",
   "jm.common.block_flag.no_topo": "无地形",
   "jm.common.block_flag.openToSky": "露天",
@@ -192,7 +192,7 @@
   "jm.common.copy_config.minimap1.tooltip": "将当前通用选项复制到小地图预设 1 选项",
   "jm.common.copy_config.minimap2": "复制到小地图预设 2",
   "jm.common.copy_config.minimap2.tooltip": "将当前通用选项复制到小地图预设 2 选项",
-  "jm.common.curseforge": "CurseForge"，
+  "jm.common.curseforge": "CurseForge",
   "jm.common.day": "白天",
   "jm.common.delete": "删除",
   "jm.common.delete_region_status_done": "区域已删除。",
@@ -453,7 +453,7 @@
   "jm.common.reset": "重置",
   "jm.common.revealshape": "显示形状",
   "jm.common.revealshape.tooltip": "地图区域围绕您显示的形状。圆形显示的区块比方形少，将提高性能。",
-  "jm.common.save_filename": "将地图保存到截图: %1$s"，
+  "jm.common.save_filename": "将地图保存到截图: %1$s",
   "jm.common.save_map": "保存地图",
   "jm.common.saving_map_to_file": "正在将 %1$s 地图保存到文件...",
   "jm.common.share.chat.description": "点击创建路点。\n 按住 Ctrl 键点击可在地图上查看。",
@@ -469,7 +469,7 @@
   "jm.common.show_caves.tooltip": "在地下或室内时切换到洞穴地图",
   "jm.common.show_day_night": "显示白天/夜晚",
   "jm.common.show_day_night.tooltip": "自动切换到白天或夜晚地图",
-  "jm.common.show_entity_names": "显示实体名称"，
+  "jm.common.show_entity_names": "显示实体名称",
   "jm.common.show_entity_names.tooltip": "在地图上显示宠物、NPC 等的名称。",
   "jm.common.show_grid": "显示网格",
   "jm.common.show_grid.tooltip": "在地图上显示区块边界的网格",
@@ -727,8 +727,8 @@
   "jm.minimap.preview.tooltip": "使用当前设置预览此小地图预设。切换到预览其他预设使用 '\\' 键。取消选择（或按 ESC）以停止预览。",
   "jm.minimap.reticle_orientation": "十字线朝向",
   "jm.minimap.reticle_orientation.tooltip": "小地图上十字线的方向（旋转）",
-  "jm.minimap.return_to_game": "返回游戏"，
-  "jm.minimap.self_display_scale": "自身显示缩放"，
+  "jm.minimap.return_to_game": "返回游戏",
+  "jm.minimap.self_display_scale": "自身显示缩放",
   "jm.minimap.self_display_scale.tooltip": "自身图标的缩放。",
   "jm.minimap.shape": "形状",
   "jm.minimap.shape.tooltip": "小地图的形状。注意：只有圆形支持\u201c我的朝向\u201d地图朝向。",
@@ -752,7 +752,7 @@
   "jm.minimap.show_reticle.tooltip": "在小地图上显示十字线（准星）",
   "jm.minimap.show_waypointlabels": "显示路径点标签",
   "jm.minimap.show_waypointlabels.tooltip": "在地图上显示路径点标签",
-  "jm.minimap.size": "大小"，
+  "jm.minimap.size": "大小",
   "jm.minimap.size.tooltip": "调整小地图的大小（窗口大小的百分比）。超过 768px 的大小可能会影响性能。",
   "jm.minimap.terrain_alpha": "地图不透明度",
   "jm.minimap.terrain_alpha.tooltip": "调整地图的不透明度（百分比）",
@@ -1062,7 +1062,7 @@
   "jm.waypoint.ignore_render_distance.tooltip": "启用后忽略原版渲染距离限制，安装超视距模组时建议开启此功能。",
   "jm.waypoint.import_rei_errors": "从 Rei's MiniMap 导入了 %1$s 个路径点，有 %2$s 个错误。请参阅日志获取详细信息。",
   "jm.waypoint.import_rei_failure": "未导入 Rei's MiniMap 路径点。请参阅 journeymap.log 获取详细信息。",
-  "jm.waypoint.import_rei_file_error": "无法导入 Rei's MiniMap 路径点文件: %1$s"，
+  "jm.waypoint.import_rei_file_error": "无法导入 Rei's MiniMap 路径点文件: %1$s",
   "jm.waypoint.import_rei_success": "从 Rei's MiniMap 导入了 %1$s 个路径点。",
   "jm.waypoint.import_rei_version": "您的 Rei's MiniMap 版本不受支持。",
   "jm.waypoint.import_vox_errors": "从 VoxelMap 导入了 %1$s 个路径点，有 %2$s 个错误。请参阅日志获取详细信息。",
